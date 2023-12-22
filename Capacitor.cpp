@@ -2,7 +2,6 @@
 // Capacitor class represents a passive electronic component in a circuit.
 // It models the behavior of a capacitor, including its capacitance, voltage, and visual representation.
 // The class is used in an analog circuit simulation. 
-//30-Oct-23  Tanish Naresh Kalathiya, Arnav Nigam, Smeet Patel        Created.
 
 #include "Capacitor.h"
 #include <GL/glut.h>
