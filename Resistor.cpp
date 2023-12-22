@@ -1,5 +1,4 @@
 //Resistor.cpp 
-//30-Oct-23  Tanish Naresh Kalathiya, Arnav Nigam, Smeet Patel        Created.
 
 #include "Resistor.h"
 #include <GL/glut.h>
