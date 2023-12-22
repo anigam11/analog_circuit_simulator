@@ -1,6 +1,4 @@
 // Capacitor.h
-//30-Oct-23  Tanish Naresh Kalathiya, Arnav Nigam, Smeet Patel        Created.
-
 #ifndef _CAPACITOR_H_
 #define _CAPACITOR_H_
 
