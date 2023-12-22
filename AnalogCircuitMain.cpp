@@ -11,9 +11,6 @@
 // http://code.nabla.net/doc/OpenGL/api/OpenGL/man4/
 // https://www.opengl.org/resources/libraries/glut/spec3/node1.html
 // https://learn.microsoft.com/en-us/windows/win32/opengl/opengl-reference
-// 
-// 23-May-22  M. Watler         Created.
-// 27-May-22  M. Watler         Added graphical display.
 
 #include <iostream>
 #include "AnalogCircuit.h"
