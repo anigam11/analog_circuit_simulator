@@ -1,5 +1,4 @@
 //Inductor.h
-//30-Oct-23  Tanish Naresh Kalathiya, Arnav Nigam, Smeet Patel        Created.
 
 #ifndef _INDUCTOR_H_
 #define _INDUCTOR_H_
