@@ -1,5 +1,4 @@
 //Inductor.cpp
-//30-Oct-23  Tanish Naresh Kalathiya, Arnav Nigam, Smeet Patel        Created.
 
 #include "Inductor.h"
 #include <GL/glut.h>
